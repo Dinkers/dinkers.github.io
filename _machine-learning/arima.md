@@ -4,7 +4,7 @@ title:  "Time Series Modelling - ARIMA"
 description: "Note on the ARIMA model for time series forecasting"
 ---
 
-Arima is a simple method for forecasting time series using only lagged values. The statsmodels library contains an implementation of ARIMA for python (https://www.statsmodels.org/stable/generated/statsmodels.tsa.arima_model.ARIMA.html). 
+Arima is a simple method for forecasting time series using only lagged values. The statsmodels library contains an implementation of ARIMA for python ([https://www.statsmodels.org/stable/generated/statsmodels.tsa.arima_model.ARIMA.html](https://www.statsmodels.org/stable/generated/statsmodels.tsa.arima_model.ARIMA.html)). 
 
 ARIMA us made up of three components:
 
