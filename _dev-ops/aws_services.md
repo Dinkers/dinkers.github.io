@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "AWS descriptions"
-description: "A brief overview of what each Amazon Web Service actually does."
+title:  "AWS Services"
+description: "A brief overview of what each Amazon Web Service does."
 ---
 
 # Compute services
@@ -105,6 +105,4 @@ Amazon's Content Delivery Network: Media assets, video files, image files can be
 ## Route 53
 
 Amazon's DNS service. Look up for IPs.
-
-## API Gateway
 
