@@ -35,7 +35,7 @@ collections:
 
   dev-ops:
     output: true
-    description: Server configuration documentation.
+    description: Server configuration guidance.
 
   static-sites:
     output: true
