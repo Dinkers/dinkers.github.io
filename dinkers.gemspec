@@ -4,7 +4,7 @@ Gem::Specification.new do |spec|
   spec.name          = "dinkers"
   spec.version       = "0.2"
   spec.authors       = ["Kayra Alat"]
-  spec.email         = ["contact@kayra.co.uk"]
+  spec.email         = ["contact@kayra.io"]
 
   spec.summary       = %q{Technical knowledge share.}
   spec.homepage      = "https://github.com/Dinkers/dinkers.github.io"
