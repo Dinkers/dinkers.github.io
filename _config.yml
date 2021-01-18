@@ -6,7 +6,7 @@ baseurl:        "/"
 
 author:
   name:         Kayra Alat
-  url:          https://kayra.co.uk
+  url:          https://kayra.io
 
 # Author of tale theme that this site is based on
 # author:
@@ -48,3 +48,7 @@ collections:
   quickstart:
     output: true
     description: Get up and running as quickly as possible with frameworks and technologies.
+
+  data-structures-and-algorithms:
+    output: true
+    description: Fundamental structures and how to use them.
